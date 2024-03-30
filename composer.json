@@ -6,7 +6,8 @@
         "php": "^8.3",
         "potter/aware-trait": "dev-main",
         "potter/container-aware-trait": "dev-main",
-        "potter/logger-aware-trait": "dev-main"
+        "potter/logger-aware-trait": "dev-main",
+        "potter/session-aware-trait": "dev-main"
     },
     "license": "MIT",
     "authors": [
