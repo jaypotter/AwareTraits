@@ -9,6 +9,11 @@
         "potter/logger-aware-trait": "dev-main",
         "potter/session-aware-trait": "dev-main"
     },
+    "suggest": {
+        "potter/aware": "dev-main",
+        "potter/traits": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "authors": [
         {
