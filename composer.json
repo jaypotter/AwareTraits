@@ -7,7 +7,8 @@
         "potter/aware-trait": "dev-main",
         "potter/container-aware-trait": "dev-main",
         "potter/logger-aware-trait": "dev-main",
-        "potter/session-aware-trait": "dev-main"
+        "potter/session-aware-trait": "dev-main",
+        "potter/socket-aware-trait": "dev-main"
     },
     "suggest": {
         "potter/aware": "dev-main",
