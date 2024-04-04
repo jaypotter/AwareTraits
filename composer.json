@@ -1,15 +1,13 @@
 {
     "name": "potter/aware-traits",
-    "description": "PHP Aware Trait Collection",
+    "description": "PHP Collection of Aware Traits",
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/aware-trait": "dev-main",
-        "potter/container-aware-trait": "dev-main",
-        "potter/logger-aware-trait": "dev-main",
-        "potter/output-buffer-aware-trait": "dev-main",
-        "potter/session-aware-trait": "dev-main",
-        "potter/socket-aware-trait": "dev-main"
+        "potter/aware-trait": "v0.0.1-alpha@alpha",
+        "potter/container-aware-trait": "v0.0.1-alpha@alpha",
+        "potter/logger-aware-trait": "v0.0.1-alpha@alpha",
+        "potter/resource-aware-trait": "v0.0.1-alpha@alpha"
     },
     "suggest": {
         "potter/aware": "dev-main",
@@ -23,5 +21,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "alpha"
 }
